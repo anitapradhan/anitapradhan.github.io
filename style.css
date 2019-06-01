@@ -1,9 +1,39 @@
-f{
+f {
 	font-size: 24px;
 	color:blue;
 }
 
-p{
+.courses_completed {
 	//text-align: right;
-	color:blue;
+	color: #7E10DE;
+}
+eff {
+	color:green;
+}
+.right {
+	text_align: ;
+}
+.column {
+  float: left;
+  width: 33.33%;
+  color: #7E10DE;
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+.col {
+  float: left;
+  width: 33.33%;
+  
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
