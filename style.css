@@ -16,19 +16,6 @@ eff {
 .column {
   float: left;
   width: 33.33%;
-  color: #7E10DE;
-}
-
-/* Clear floats after the columns */
-.row:after {
-  content: "";
-  display: table;
-  clear: both;
-}
-.col {
-  float: left;
-  width: 33.33%;
-  
 }
 
 /* Clear floats after the columns */
