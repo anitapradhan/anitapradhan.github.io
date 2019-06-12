@@ -3,15 +3,16 @@
 <head>
 	<title>Hi, I am Anita :)</title>
 	<link href="style.css" rel="stylesheet" type="text/css">
+	<style>
+	      eff {
+	          font_size: 60px;
+	          text-align:right;
+	          color:green;
+	        }
+	</style>
 </head>
 <body>
-<div class="header">
-  <a href="#default" class="logo">Anita Pradhan</a>
-  <div class="header-right">
-    <a class="active" href="#home">Home</a>
-    <a href="x.html">Blog</a>
-  </div>
-</div>
+<h1>Anita Pradhan</h1>
 	<h2><u>EDUCATION:</u></h2>
 	Purbhanchal University, Nepal
 	<pre><b>Bachelor in Computer Engineering</b>              Dec 2019</pre>
@@ -66,19 +67,5 @@
 	</ul>
 	<h2><u>LANGUAGE SKILLS:</u></h2>
 	<p>Nepali, English, Hindi, Newari</p>
-<div class="footer">
-	
-				 <a class="active" href="#home">Home</a>
-				<a href="x.html">Blog</a>
-			<div class="footer-right">
-    			<a href="https://anitapradhan.github.io/"><i class="fa fa-github"></i></a>
-				<a href="https://www.linkedin.com"><i class="fab fa-linkedin-in" aria-hidden="true"></i></a>
-				<a href="https://www.youtube.com/channel/UC2BJEGiGJmM_VzO79OHWqpw?view_as=subscriber"><i class="fab fa-youtube" aria-hidden="true"></i></a>
-
-
- 			 </div>
-			
-</div>
-		         
 </body>
 </html>
