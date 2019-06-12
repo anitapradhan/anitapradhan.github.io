@@ -26,7 +26,7 @@ eff {
 /* Style the header with a black background and some padding */
 .header {	
   overflow: hidden;
-  width:auto;
+  width:100%;
   background-color: black;
   padding: 20px 10px;
 }
