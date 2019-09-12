@@ -13,6 +13,8 @@ h1 {
   text-align: center;
 
 }
+
+
 h3{
   font-weight: normal;
    font-size: 16px;
@@ -42,6 +44,10 @@ eff {
 .column {
   float: left;
   width: 25%;
+}
+.col {
+  float: left;
+  width: 50%;
 }
 
 /* Clear floats after the columns */
