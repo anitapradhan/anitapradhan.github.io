@@ -8,6 +8,10 @@ h2 {
   font-size: 16px;
 
 }
+li{
+  font-size: 16px;
+
+}
 h1 {
   font-size: 24px;
   text-align: center;
@@ -27,9 +31,11 @@ h3{
   font-size: 14px;
 
 }
-f {
-	font-size: 24px;
-	color:blue;
+
+p{
+   font-family: "Times New Roman", Times, serif;
+	font-size: 16px;
+
 }
 .courses_completed {
 	//text-align: right;
@@ -43,11 +49,11 @@ eff {
 }
 .column {
   float: left;
-  width: 25%;
+  width: 20%;
 }
 .col {
   float: left;
-  width: 50%;
+  width: 40%;
 }
 
 /* Clear floats after the columns */
