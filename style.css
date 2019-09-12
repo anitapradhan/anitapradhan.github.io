@@ -4,8 +4,26 @@ body{
 	margin-left: 0;
 	margin-bottom: 0;
 }
+h2 {
+  font-size: 16px;
+
+}
+h1 {
+  font-size: 24px;
+  text-align: center;
+
+}
+h3{
+  font-weight: normal;
+   font-size: 16px;
+  text-align: center;
+
+}
+
 .margi{
-	margin-left: 2%
+	margin-left: 2%;
+  font-size: 14px;
+
 }
 f {
 	font-size: 24px;
@@ -113,6 +131,7 @@ eff {
   background-position: white;
 
 }
+
 
 /* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */ 
 @media screen and (max-width: 500px) {
