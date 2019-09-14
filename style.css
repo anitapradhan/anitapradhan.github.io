@@ -9,12 +9,19 @@ h2 {
   color: red;
 
 }
+h4{
+  font-weight: normal;
+  font-size: 24px;
+    text-align: left;
+  
+}
+
 li{
   font-size: 16px;
 
 }
 h1 {
-  color: red;
+  color: #DA33FF;
   font-size: 24px;
   text-align: center;
 
@@ -30,6 +37,11 @@ h3{
 
 .margi{
 	margin-left: 2%;
+  font-size: 14px;
+
+}
+.marg{
+  margin-left: 3%;
   font-size: 14px;
 
 }
@@ -55,8 +67,9 @@ eff {
 }
 .col {
   float: left;
-  width: 40%;
+  width: 30%
 }
+
 
 /* Clear floats after the columns */
 .row:after {
@@ -122,7 +135,7 @@ eff {
   position: relative;
   padding: 20px 10px;
   width: 100%;
-  height:50px;
+  height:30px;
   background-color: black;
   color: white;
   text-align: center;
@@ -145,7 +158,34 @@ eff {
   background-position: white;
 
 }
+.foot {
+  position:absolute;
+  bottom:0;
+  padding: 20px 10px;
+  width: 100%;
+  height:30px;
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+.foot a {
+  float: middle;
+  color: white;
+  padding: 25px;
+  text-decoration: none;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 4px;
+}
+.foot a:hover {
+  color: #bf8e2b;
+  
+}
+.foot-right {
+  float: right;
+  background-position: white;
 
+}
 
 /* Add media queries for responsiveness - when the screen is 500px wide or less, stack the links on top of each other */ 
 @media screen and (max-width: 500px) {
