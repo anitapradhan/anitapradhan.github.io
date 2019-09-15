@@ -3,35 +3,41 @@ body{
 	margin-right: 1%;
 	margin-left: 0;
 	margin-bottom: 0;
+	 font-family: "Roboto";
 }
+
+
 h2 {
   font-size: 16px;
   color: red;
+   font-family: "Roboto";
 
 }
 h4{
   font-weight: normal;
   font-size: 24px;
     text-align: left;
-  
+   font-family: "Roboto";
 }
 
 li{
-  font-size: 16px;
+ font-size: 16px;
+  font-family: "Roboto";
 
 }
 h1 {
-  color: #DA33FF;
+  color: red;
   font-size: 24px;
   text-align: center;
+   font-family: "Roboto";
 
 }
 
 h3{
-  font-weight: normal;
-  font-family: "Times New Roman", Times, serif;
+  font-weight: normal; 
    font-size: 16px;
   text-align: center;
+   font-family: "Roboto";
 
 }
 
@@ -47,7 +53,7 @@ h3{
 }
 
 p{
-   font-family: "Times New Roman", Times, serif;
+   font-family: "Roboto";
 	font-size: 16px;
 
 }
@@ -67,7 +73,7 @@ eff {
 }
 .col {
   float: left;
-  width: 30%
+  width: 30%;
 }
 
 
