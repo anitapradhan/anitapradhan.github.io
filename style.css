@@ -12,7 +12,7 @@ a{
 h2 {
   font-size: 16px;
   color: #e4360c;
-  background: linear-gradient(180deg,rgba(255,255,255,0) 0%, #FFD0AE 0%);
+  background: linear-gradient(180deg,rgba(255,255,255,0) , #FFD0AE 0%);
    font-family: "Roboto";
 
 }
