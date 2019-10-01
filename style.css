@@ -5,7 +5,9 @@ body{
 	margin-bottom: 0;
 	font-family: "Roboto";
 }
-
+a{
+	color: blue;
+}
 
 h2 {
   font-size: 16px;
