@@ -54,6 +54,11 @@ h3{
   font-size: 14px;
 
 }
+.margin1{
+margin-left: 2%;	
+margin-top: 2%;
+  
+}
 .marg{
   margin-left: 4%;
   font-size: 14px;
@@ -65,6 +70,9 @@ p{
 	font-size: 16px;
 
 }
+ .fab fa-linkedin-in{
+ 	color: white;
+ }
 .courses_completed {
 	//text-align: right;
 	color: #7E10DE;
@@ -215,4 +223,18 @@ eff {
 #main{
 	overflow: auto;
 	padding-bottom: 100%;
+}
+.mapouter
+{
+	position:relative;
+	text-align:right;
+	height:400px;
+	width:1320px;
+}
+.gmap_canvas 
+{
+	overflow:hidden;
+	background:none!important;
+	height:400px;
+	width:1320px;
 }
