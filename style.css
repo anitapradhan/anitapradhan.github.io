@@ -34,12 +34,10 @@ li{
 }
 h1 {
   color: #e4360c;
-  font-size: 24px;
+  font-size: 22px;
   text-align: center;
    font-family: "Roboto";
-
 }
-
 h3{
   font-weight: normal; 
    font-size: 16px;
@@ -77,9 +75,6 @@ p{
 	//text-align: right;
 	color: #7E10DE;
 }
-eff {
-	color:green;
-}
 .right {
 	text_align: ;
 }
@@ -115,7 +110,7 @@ eff {
   text-align: center;
   padding: 12px ;
   text-decoration: none;
-  font-size: 18px; 
+  font-size: 24px; 
   line-height: 25px;
   border-radius: 4px;
 }
@@ -167,7 +162,7 @@ eff {
   color: white;
   padding: 25px;
   text-decoration: none;
-  font-size: 14px; 
+  font-size: 16px; 
   line-height: 25px;
   border-radius: 4px;
 }
@@ -195,7 +190,7 @@ eff {
   color: white;
   padding: 25px;
   text-decoration: none;
-  font-size: 14px; 
+  font-size: 16px; 
   line-height: 25px;
   border-radius: 4px;
 }
@@ -223,18 +218,4 @@ eff {
 #main{
 	overflow: auto;
 	padding-bottom: 100%;
-}
-.mapouter
-{
-	position:relative;
-	text-align:right;
-	height:400px;
-	width:1320px;
-}
-.gmap_canvas 
-{
-	overflow:hidden;
-	background:none!important;
-	height:400px;
-	width:1320px;
 }
